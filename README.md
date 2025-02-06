@@ -19,15 +19,16 @@ If you wish to support my work you can donate with BTC:
 ⚡ BTC Onchain: 347ePgUhyvztUWVZ4YZBmBLgTn8hxUFNeQ
 
 #
-https://www.youtube.com/embed/i9iiq9fdAxA
+**VIDEO 1 BENCH TEST** ----> https://www.youtube.com/embed/i9iiq9fdAxA
 #
-https://www.youtube.com/embed/x1O7AnvcAgw
+**VIDEO 2 FIELD TEST** ----> https://www.youtube.com/embed/x1O7AnvcAgw
 
 
 
-#
-![](pics/IMG_20250125_143705.jpg)
+
 #
 ![](pics/IMG_20250129_155012.jpg)
 #
 ![](pics/IMG_20250129_155018.jpg)
+#
+![](pics/IMG_20250125_143705.jpg)
